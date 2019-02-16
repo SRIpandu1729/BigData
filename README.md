@@ -1,1 +1,1 @@
-# BIG DATA from UCSD @Coursera
+# BIG DATA specialization from UCSD @Coursera
